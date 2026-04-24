@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "388808524330",
+    "project_id": "thadi-94eba",
+    "storage_bucket": "thadi-94eba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388808524330:android:89044daa8935fe01d4b953",
+        "android_client_info": {
+          "package_name": "com.anonymous.thadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388808524330-3g34n3d1hadv1uats8jr6lgc67eq8q7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.thadi",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "388808524330-73p8bj1ik36ocve6c0qg27pp1mfmc46p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.thadi",
+            "certificate_hash": "dc38f5c313c336a536088445947b50f93b044dec"
+          }
+        },
+        {
+          "client_id": "388808524330-47j1e08r7p7v3sgckuo8pms5eg5nr4di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-fSxs4g1Vm_FhLKHABLxFq-QyBDEaxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388808524330-47j1e08r7p7v3sgckuo8pms5eg5nr4di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
